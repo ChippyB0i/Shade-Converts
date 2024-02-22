@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjectShade132/Shade-Converts/main/Scripts/DearSister%20Pistol.txt"))()
