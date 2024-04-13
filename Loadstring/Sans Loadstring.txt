@@ -1,0 +1,16 @@
+--[[
+CONVERT-FREE
+https://www.roblox.com/catalog/4819740796/Robox
+https://www.roblox.com/catalog/4391384843/International-Fedora-Russia
+https://www.roblox.com/catalog/4154538250/International-Fedora-Chile
+https://www.roblox.com/catalog/4094878701/International-Fedora-Mexico
+https://www.roblox.com/catalog/4489239608/International-Fedora-United-Kingdom
+CONVERT-PAID
+https://www.roblox.com/catalog/12344591101/Extra-Right-hand-moving-Blocky-white
+https://www.roblox.com/catalog/12344545199/Extra-Left-hand-moving-Blocky-white
+https://www.roblox.com/catalog/11159410305/Rectangle-Head-For-Headless
+https://www.roblox.com/catalog/11263254795/Dummy-Head-For-Headless
+(you can use any hat that covers your torso)
+]]--
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjectShade132/Shade-Converts/main/Scripts/Sans.lua"))()
